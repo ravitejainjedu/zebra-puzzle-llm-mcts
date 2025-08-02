@@ -20,7 +20,7 @@ This project demonstrates the use of **Monte Carlo Tree Search (MCTS)** enhanced
 
 ## 🚀 2. Approach
 
-We implemented **three reasoning agents**:
+I implemented **three reasoning agents**:
 
 ### **1️⃣ MCTS + LLM (Gemini-Powered)**
 - Uses **MCTS** to explore partial solutions.  
